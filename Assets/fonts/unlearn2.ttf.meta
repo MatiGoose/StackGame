@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 99f5538ba6c1b084ab4977e577c372fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unlearned 2 BRK
+  fontNames:
+  - Unlearned 2 BRK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cb4d41cff55d5044d9ad8a3cb666a45d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
